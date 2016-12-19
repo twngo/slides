@@ -2,7 +2,7 @@
 
 #### for NGO 
 webinar note 
-- [10 Emerging Trends in Digital Communications and Fundraising]("/10trends/")
+- [10 Emerging Trends in Digital Communications and Fundraising](/10trends/)
 
 
 
