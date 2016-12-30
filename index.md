@@ -3,6 +3,7 @@
 #### for NGO 
 webinar note 
 - [10 Emerging Trends in Digital Communications and Fundraising](/slides/10trends/)
+- [10 Tactics for Turning Information into Action ](/slides/10tactics/basic.html) 
 
 
 
