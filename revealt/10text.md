@@ -1,6 +1,3 @@
-
-
-
 # Basics for Front-end developer
 
 ### C001 網站前端入門
